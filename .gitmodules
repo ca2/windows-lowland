@@ -6,3 +6,7 @@
 	path = source
 	url = ../lowland-source
 	branch = main
+[submodule "port"]
+	path = port
+	url = ../windows-lowland-port
+	branch = main
